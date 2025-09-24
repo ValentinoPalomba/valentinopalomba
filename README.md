@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Valentino Palomba
+
+🚀 **iOS Engineer at Intesa Sanpaolo**  
+Specialized in building innovative mobile experiences powered by the latest in machine learning and Apple technologies.
+
+---
+
+## 🛠️ Top Skills
+- **Swift**
+- **CoreML**
+- **MLX**
+
+---
+
+## 🌟 Featured Project
+
+### [FRTMTools](https://github.com/ValentinoPalomba/FRTMTools)
+Your go-to toolkit for advanced iOS development and ML integration. Check it out above!
+
+---
+
+## 📈 GitHub Highlights
+
+- [FRTMCore](https://github.com/ValentinoPalomba/FRTMCore)
+- [frtm_periphery](https://github.com/ValentinoPalomba/frtm_periphery)
+- [FRTMArtificialIntelligence](https://github.com/ValentinoPalomba/FRTMArtificialIntelligence)
+- [FRTMGpt](https://github.com/ValentinoPalomba/FRTMGpt)
+
+---
 
 <!--
-**ValentinoPalomba/valentinopalomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to reach out or explore my repositories for cutting-edge iOS and ML projects!
 -->

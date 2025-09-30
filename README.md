@@ -15,7 +15,7 @@ Specialized in building innovative mobile experiences powered by the latest in m
 ## 🌟 Featured Project
 
 ### [FRTMTools](https://github.com/ValentinoPalomba/FRTMTools)
-Your go-to toolkit for advanced iOS development and ML integration. Check it out above!
+Your go-to toolkit for advanced iOS App analysis. Check it out above!
 
 ---
 
